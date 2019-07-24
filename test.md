@@ -3,3 +3,6 @@
 *Save file
 *On local machine fetch files
 *Save locally
+*Move to stage
+*Commit
+*Push

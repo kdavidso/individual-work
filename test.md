@@ -7,3 +7,4 @@
 *Commit
 *Push
 *Edit and try to pull
+*Success
